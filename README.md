@@ -4,6 +4,6 @@ A rocket ship game built in Unity with C#. Name of the game is to make it from l
 
 # Controls
 
-spacebar = thrust
-A = rotate left
-D = rotate right
+- spacebar = thrust
+- A = rotate left
+- D = rotate right
